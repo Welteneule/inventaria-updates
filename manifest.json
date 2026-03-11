@@ -1,5 +1,5 @@
 {
-  "latest_version": "0.2.6",
-  "download_url": "https://github.com/Welteneule/inventaria-updates/releases/download/0.2.6.20260311/Inventaria_Setup_0.2.6.20260311.exe",
-  "notes": "Kamera: Mehrfachaufnahme, Kamera-Wechsel, Drehen/Zuschneiden"
+  "latest_version": "0.2.7",
+  "download_url": "https://github.com/Welteneule/inventaria-updates/releases/download/0.2.7.20260311/Inventaria_Setup_0.2.7.20260311.exe",
+  "notes": "Surface Kamera-Fix, Bearbeiten-Dialog Kamera-Button"
 }
